@@ -1,0 +1,382 @@
+[
+  {
+    "text": "In welchem Jahr wurde die Europäische Union gegründet?",
+    "answerA": "1993",
+    "answerB": "1955",
+    "answerC": "2012",
+    "answerD": "1988",
+    "imageName": "pexels-wikimedia-commons-4666",
+    "correctAnswer": "a",
+    "trivia": "Die Europäische Union (EU) wurde am 1. November 1993 gegründet"
+  },
+  {
+    "text": "Was bedeutet das lateinische Wort „adventus“?",
+    "answerA": "Allmächtiger",
+    "answerB": "Ankunft",
+    "answerC": "Kerze",
+    "answerD": "Kranz",
+    "imageName": "pexels-nubia-navarro-(nubikini)-714898",
+    "correctAnswer": "b",
+    "trivia": "Es bezieht sich auf die Ankunft Jesu Christi während der Adventszeit vor Weihnachten."
+  },
+  {
+    "text": "Welche Nation hat die Olympischen Sommerspiele 2021 ausgerichtet?",
+    "answerA": "Australien",
+    "answerB": "China",
+    "answerC": "Japan",
+    "answerD": "Uganda",
+    "imageName": "pexels-pixabay-236937",
+    "correctAnswer": "c",
+    "trivia": "Die Spiele wurden ursprünglich für 2020 geplant, wurden jedoch wegen Corona verschoben."
+  },
+  {
+    "text": "Wer schrieb das Drama \"Romeo und Julia\"?",
+    "answerA": "Shakespeare",
+    "answerB": "Goethe ",
+    "answerC": "Schiller",
+    "answerD": "Van-Dyke",
+    "imageName": "pexels-george-sharvashidze-69004",
+    "correctAnswer": "a",
+    "trivia": "Es ist eines der bekanntesten Werke Shakespeares."
+  },
+  {
+    "text": "Welches Element hat das chemische Symbol \"O\"?",
+    "answerA": "Wasser",
+    "answerB": "Sauerstoff",
+    "answerC": "Osmium",
+    "answerD": "Eisen",
+    "imageName": "pexels-polina-tankilevitch-3735722",
+    "correctAnswer": "b",
+    "trivia": "Es hat die Ordnungszahl 8 und das chemische Symbol \"O\"."
+  },
+  {
+    "text": "Was ist der Name des Rentiers, das den Schlitten des Weihnachtsmanns zieht?",
+    "answerA": "Rudolph",
+    "answerB": "Anton",
+    "answerC": "Trixie",
+    "answerD": "Paul",
+    "imageName": "pexels-annika-thierfeld-735988",
+    "correctAnswer": "a",
+    "trivia": "Er wurde 1939 von R. May für eine Kaufhauskette zur Werbung geschaffen"
+  },
+  {
+    "text": "Wie nennt man die äußere Schicht der Erde?",
+    "answerA": "Mantel",
+    "answerB": "Kruste",
+    "answerC": "Kern",
+    "answerD": "Ozean",
+    "imageName": "pexels-pixabay-87651",
+    "correctAnswer": "b",
+    "trivia": "Sie ist die dünnste Schicht der Erde und besteht aus festem Gestein"
+  },
+  {
+    "text": "Was ist der ursprüngliche Name des Weihnachtsmanns?",
+    "answerA": "Kris Kringle",
+    "answerB": "Paul Panzer",
+    "answerC": "Saint Nicholas",
+    "answerD": "St. Frankes",
+    "imageName": "pexels-pixabay-247891",
+    "correctAnswer": "",
+    "trivia": "Die Figur basiert auf dem historischen Bischof Nikolaus von Myra"
+  },
+  {
+    "text": "Wie viele Tasten hat ein Klavier?",
+    "answerA": "22",
+    "answerB": "44",
+    "answerC": "88",
+    "answerD": "62",
+    "imageName": "pexels-pixabay-164935",
+    "correctAnswer": "c",
+    "trivia": "Ein Klavier besitzt 88 Tasten. Davon sind 36 schwarze und 52 weiße."
+  },
+  {
+    "text": "Welche Blumenzwiebeln wurden früher als Zahlungsmittel genutzt?",
+    "answerA": "Krokus",
+    "answerB": "Gladiolen",
+    "answerC": "Lilien",
+    "answerD": "Tulpe",
+    "imageName": "pexels-pixabay-68507",
+    "correctAnswer": "d",
+    "trivia": "Im 17. Jahrhundert wurde in Holland die Tulpenzwiebel als Zahlungsmittel genutzt."
+  },
+  {
+    "text": "Von wem wird der Bundespräsident gewählt?",
+    "answerA": "Europäischen Parlament",
+    "answerB": "Bundesversammlung",
+    "answerC": "Bundestag",
+    "answerD": "Bundeskanzler",
+    "imageName": "pexels-ingo-joseph-109629",
+    "correctAnswer": "b",
+    "trivia": "Der Bundespräsident wird von der Bundesversammlung in einer geheimen Wahl gewählt."
+  },
+  {
+    "text": "Wonach schmeckt der Likör Cointreau?",
+    "answerA": "Schokolade",
+    "answerB": "Kräuter",
+    "answerC": "Sahne",
+    "answerD": "Orange",
+    "imageName": "pexels-chris-f-1283219",
+    "correctAnswer": "d",
+    "trivia": "Der Likör Cointreau dominiert mit einem fruchtig herben Geschmack nach Orangen."
+  },
+  {
+    "text": "Was ist ein Falchion?",
+    "answerA": "Schwert",
+    "answerB": "Gericht",
+    "answerC": "Instrument",
+    "answerD": "Wortart",
+    "imageName": "pexels-pixabay-356079",
+    "correctAnswer": "a",
+    "trivia": "Ein Falchion ist ein einschneidiges Schwert."
+  },
+  {
+    "text": "Was bedeutet http im Internet?",
+    "answerA": "Hypertext Transfer Protocol",
+    "answerB": "Hypetrans  Text Print",
+    "answerC": "Hometran Transport Proxy",
+    "answerD": "Hivetype Trans Protocol",
+    "imageName": "pexels-pixabay-159304",
+    "correctAnswer": "a",
+    "trivia": "Das Kürzel http:// steht heute vor jeder Internet-Adresse"
+  },
+  {
+    "text": "Wie viele Nadeln hat ein durchschnittlicher Weihnachtsbaum?",
+    "answerA": "320.000",
+    "answerB": "180.000",
+    "answerC": "350.000",
+    "answerD": "120.000",
+    "imageName": "pexels-irina-iriser-943900",
+    "correctAnswer": "b",
+    "trivia": "Der häufigste Weihnachtsbaum in Deutschland ist die Nordmanntanne"
+  },
+  {
+    "text": "Wer besuchte Jesus zuerst?",
+    "answerA": "König Herodes",
+    "answerB": "König Adam",
+    "answerC": "Die Weisen",
+    "answerD": "Die Hirten",
+    "imageName": "pexels-jeswin-thomas-1652555",
+    "correctAnswer": "d",
+    "trivia": "Die Weisen aus dem Morgenland besuchten erst später das Jesukind"
+  },
+  {
+    "text": "Mit was beschäftigt sich ein Ornithologe?",
+    "answerA": "Gazellen",
+    "answerB": "Vögeln",
+    "answerC": "Otter",
+    "answerD": "Ohren",
+    "imageName": "pexels-pixabay-256262",
+    "correctAnswer": "b",
+    "trivia": "Ein Ornithologe beschäftigt sich mit Vogelarten und dessen Erforschung."
+  },
+  {
+    "text": "Welches Unternehmen entwickelte das Betriebssystem \"Windows\"?",
+    "answerA": "Apple",
+    "answerB": "Google",
+    "answerC": "Microsoft",
+    "answerD": "Linux Foundation",
+    "imageName": "pexels-yusuf-p-8998295",
+    "correctAnswer": "c",
+    "trivia": "Windows wurde von Microsoft entwickelt und erstmals im Jahr 1985 veröffentlicht."
+  },
+  {
+    "text": "Wann war die Zeit des Jugendstils?",
+    "answerA": "1890 bis 1910",
+    "answerB": "1710 bis 1740",
+    "answerC": "1790 bis 1820",
+    "answerD": "1950 bis 1980",
+    "imageName": "pexels-una-laurencic-20967",
+    "correctAnswer": "a",
+    "trivia": "Die Zeit des Jugendstils war um die Jahrhundertwende - von ca. 1890 bis 1910."
+  },
+  {
+    "text": "Welches Weihnachtsgebäck stammt aus Deutschland?",
+    "answerA": "Fruitcake",
+    "answerB": "Stollen",
+    "answerC": "Panettone",
+    "answerD": "Lebkuchen",
+    "imageName": "pexels-tina-nord-1775283",
+    "correctAnswer": "b",
+    "trivia": "Die erste Erwähnung von Stollen geht auf das Jahr 1474 in Naumburg zurück"
+  },
+  {
+    "text": "Welcher Ort wird als Heimat des Weihnachtsmanns betrachtet?",
+    "answerA": "Geldern",
+    "answerB": "Schweden",
+    "answerC": "Norwegen",
+    "answerD": "Finnland",
+    "imageName": "pexels-pixabay-356079",
+    "correctAnswer": "d",
+    "trivia": "Rovaniemi in Lappland, Finnland wird als Heimat des Weihnachtsmanns betrachtet"
+  },
+  {
+    "text": "Wenn man ein Broiler bestellt, erhält man welches Gericht?",
+    "answerA": "Brathähnchen",
+    "answerB": "Brot",
+    "answerC": "Wassertank",
+    "answerD": "Bratwurst",
+    "imageName": "pexels-robin-stickel-70497",
+    "correctAnswer": "a",
+    "trivia": "Broiler ist ein anderes Wort für Brathähnchen und wurde vor allem in der ehemaligen DDR verwendet."
+  },
+  {
+    "text": "Welche ist die Hauptstadt Australiens?",
+    "answerA": "Sydney",
+    "answerB": "Canberra",
+    "answerC": "Melbourne",
+    "answerD": "Perth",
+    "imageName": "pexels-pixabay-356079",
+    "correctAnswer": "b",
+    "trivia": "Canberra ist die Hauptstadt Australiens"
+  },
+  {
+    "text": "In welchem Land fährt man NICHT auf der rechten Seite?",
+    "answerA": "Irland",
+    "answerB": "Deutschland",
+    "answerC": "England",
+    "answerD": "Norwegen",
+    "imageName": "pexels-mehmet-turgut-kirkgoz-19327552",
+    "correctAnswer": "c",
+    "trivia": "In England wird nicht auf der rechten Seite gefahren."
+  },
+  {
+    "text": "Wo fanden im Jahr 1996 die Olympischen Sommerspiele statt?",
+    "answerA": "Atlanta",
+    "answerB": "München",
+    "answerC": "Singapur",
+    "answerD": "Taiwan",
+    "imageName": "pexels-pixabay-236937",
+    "correctAnswer": "a",
+    "trivia": "Sie fanden in Atlanta, USA statt. Muhammed Ali entzündete das olympische Feuer."
+  },
+  {
+    "text": "Was für eine Sprache wird in Brasilien gesprochen?",
+    "answerA": "Französisch",
+    "answerB": "Spanisch ",
+    "answerC": "Portugiesisch",
+    "answerD": "Brasilianisch",
+    "imageName": "pexels-florencia-potter-351283",
+    "correctAnswer": "c",
+    "trivia": "Brasilianisch ist keine eigenständige Sprache. In Brasilien wird Portugiesisch gesprochen."
+  },
+  {
+    "text": "In welchem Gefäß wird in Hessen Apfelwein serviert?",
+    "answerA": "Kelch",
+    "answerB": "Trinkhorn",
+    "answerC": "Holztasse",
+    "answerD": "Bembel",
+    "imageName": "pexels-jill-wellington-39351",
+    "correctAnswer": "d",
+    "trivia": "In einem Bembel. Dieser ist ein grauer Weinkrug mit einem blauen Muster."
+  },
+  {
+    "text": "Der Prater befindet sich in welcher Stadt?",
+    "answerA": "Wien",
+    "answerB": "Köln",
+    "answerC": "Stuttgart ",
+    "answerD": "Oslo",
+    "imageName": "pexels-daniel-fawcett-1404968",
+    "correctAnswer": "a",
+    "trivia": "Der Prater ist ein überregional bekannter Vergnügungspark in Wien."
+  },
+  {
+    "text": "Was ist ein alkoholisches Getränk in Japan?",
+    "answerA": "Maki",
+    "answerB": "Koto",
+    "answerC": "Mate",
+    "answerD": "Sake",
+    "imageName": "pexels-bagus-pangestu-1440476",
+    "correctAnswer": "d",
+    "trivia": "In Deutschland ist Sake unter dem Namen Reiswein bekannt."
+  },
+  {
+    "text": "Wer verteilt in Island die Geschenke?",
+    "answerA": "Rentier",
+    "answerB": "Weihnachtsmann",
+    "answerC": "Weihnachtstrolle",
+    "answerD": "Elfen",
+    "imageName": "pexels-george-dolgikh-1303080",
+    "correctAnswer": "c",
+    "trivia": "Insgesamt 13 Trolle sind in Island unterwegs."
+  },
+  {
+    "text": "Wie viele Kilometer läuft man bei einem Marathon?",
+    "answerA": "49,5KM",
+    "answerB": "41,2KM",
+    "answerC": "42,195KM",
+    "answerD": "51,28KM",
+    "imageName": "pexels-run-ffwpu-1571939",
+    "correctAnswer": "a",
+    "trivia": "42,195 Kilometer lang ist die Strecke bei einem klassischen Marathon"
+  },
+  {
+    "text": "Welches Betriebssystem kam nach Windows 8",
+    "answerA": "Windows Vista",
+    "answerB": "Windows 9",
+    "answerC": "Windows NE ",
+    "answerD": "Windows 10",
+    "imageName": "pexels-xxss-is-back-777001",
+    "correctAnswer": "d",
+    "trivia": "Um den großen Sprung deutlich zu machen ging es direkt mit Windows 10 weiter"
+  },
+  {
+    "text": "Was bringt Rotkäppchen ihrer Oma mit?",
+    "answerA": "Äpfel und Birnen",
+    "answerB": "Wasser und Brot",
+    "answerC": "Kuchen und Wein",
+    "answerD": "Brot und Wurst",
+    "imageName": "pexels-duren-williams-18874705",
+    "correctAnswer": "c",
+    "trivia": "Das Märchen wurde erstmals von Charles Perrault im 17. Jahrhundert erzählt"
+  },
+  {
+    "text": "Wo befindet sich der Rote Platz?",
+    "answerA": "Moskau",
+    "answerB": "Baku",
+    "answerC": "Berlin",
+    "answerD": "Rom",
+    "imageName": "pexels-bogdan-r-anton-1088614",
+    "correctAnswer": "a",
+    "trivia": "Der Rote Platz befindet sich im Zentrum Moskaus und in unmittelbarer Nähe zum Kreml."
+  },
+  {
+    "text": "Wann kam das erste iPhone auf den Markt?",
+    "answerA": "2008",
+    "answerB": "2009",
+    "answerC": "2010",
+    "answerD": "2007",
+    "imageName": "pexels-jess-bailey-designs-788946",
+    "correctAnswer": "d",
+    "trivia": "Im Jahr 2007 präsentierte Steve Jobs das allererste iPhone."
+  },
+  {
+    "text": "Wie groß war Alexander der Große? (+/- 10CM)",
+    "answerA": "x",
+    "answerB": "x",
+    "answerC": "x",
+    "answerD": "Aufgeschrieben?",
+    "imageName": "pexels-pixabay-33535",
+    "correctAnswer": "d",
+    "trivia": "Alexander der Große war genau 1,50m groß"
+  },
+  {
+    "text": "Wie viele Zimmer hat das Weiße Haus? (+/- 30)",
+    "answerA": "x",
+    "answerB": "x",
+    "answerC": "x",
+    "answerD": "Aufgeschrieben?",
+    "imageName": "pexels-pixabay-33535",
+    "correctAnswer": "d",
+    "trivia": "Das Weiße Haus hat ganze 132 Zimmer insgesamt"
+  },
+  {
+    "text": "Wie viele Kinder werden auf der Welt pro Tag geboren? (+/- 100K)",
+    "answerA": "x",
+    "answerB": "x",
+    "answerC": "x",
+    "answerD": "Aufgeschrieben?",
+    "imageName": "pexels-pixabay-33535",
+    "correctAnswer": "d",
+    "trivia": "Etwa 440K Kinder werden pro Tag geboren"
+  }
+]
